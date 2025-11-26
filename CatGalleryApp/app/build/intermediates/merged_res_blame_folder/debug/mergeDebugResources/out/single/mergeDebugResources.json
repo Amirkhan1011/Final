@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.catgallery.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.example.catgallery.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.catgallery.app-debug-40:/layout_item_cat.xml.flat",
+        "source": "com.example.catgallery.app-main-42:/layout/item_cat.xml"
+    }
+]
