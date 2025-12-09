@@ -9,7 +9,7 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import coil.load
-import com.example.catgallery.models.CatCard
+import com.example.catgallery.data.models.CatCard
 
 class CatCardAdapter :
     ListAdapter<CatCard, CatCardAdapter.CatViewHolder>(DiffCallback) {

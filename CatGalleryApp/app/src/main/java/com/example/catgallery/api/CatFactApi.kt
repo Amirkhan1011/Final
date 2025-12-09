@@ -1,6 +1,6 @@
 package com.example.catgallery.api
 
-import com.example.catgallery.models.CatFact
+import com.example.catgallery.data.models.CatFact
 import retrofit2.http.GET
 
 interface CatFactApi {

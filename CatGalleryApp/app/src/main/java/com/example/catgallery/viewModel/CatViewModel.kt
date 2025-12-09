@@ -6,13 +6,12 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.catgallery.api.CatFactRetrofit
 import com.example.catgallery.api.CatImgRetrofit
-import com.example.catgallery.models.CatCard
+import com.example.catgallery.data.models.CatCard
 import com.example.catgallery.state.UiState
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.awaitAll
 import kotlinx.coroutines.launch
-import kotlinx.coroutines.withContext
 
 class CatViewModel : ViewModel() {
 

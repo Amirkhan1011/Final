@@ -4,6 +4,23 @@
             "outputFile": "com.example.catgallery.app-mergeDebugResources-38:/values/values.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\ospan\\AndroidStudioProjects\\CatGalleryApp\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "276,55,100,145,190,233,316",
+                        "endColumns": "39,44,44,44,42,42,39",
+                        "endOffsets": "311,95,140,185,228,271,351"
+                    },
+                    "to": {
+                        "startLines": "641,948,949,950,961,962,965",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "32859,55715,55760,55805,56547,56590,56754",
+                        "endColumns": "39,44,44,44,42,42,39",
+                        "endOffsets": "32894,55755,55800,55845,56585,56628,56789"
+                    }
+                },
+                {
                     "source": "C:\\Users\\ospan\\.gradle\\caches\\9.0-milestone-1\\transforms\\90a2de851ca4bd2296a8ed00dd7872af\\transformed\\transition-1.5.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
@@ -71,6 +88,23 @@
                         "startOffsets": "124532",
                         "endColumns": "49",
                         "endOffsets": "124577"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ospan\\AndroidStudioProjects\\CatGalleryApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    },
+                    "to": {
+                        "startLines": "1987",
+                        "startColumns": "4",
+                        "startOffsets": "131431",
+                        "endColumns": "50",
+                        "endOffsets": "131477"
                     }
                 },
                 {
@@ -148,25 +182,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ospan\\Downloads\\CatGalleryApp\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "7",
-                        "endColumns": "12",
-                        "endOffsets": "454"
-                    },
-                    "to": {
-                        "startLines": "6379",
-                        "startColumns": "4",
-                        "startOffsets": "446652",
-                        "endLines": "6384",
-                        "endColumns": "12",
-                        "endOffsets": "447004"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ospan\\.gradle\\caches\\9.0-milestone-1\\transforms\\9395aeae73185867a1074fd4966bfa3d\\transformed\\jetified-lifecycle-runtime-release\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -220,23 +235,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ospan\\Downloads\\CatGalleryApp\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "276,55,100,145,190,233,316",
-                        "endColumns": "39,44,44,44,42,42,39",
-                        "endOffsets": "311,95,140,185,228,271,351"
-                    },
-                    "to": {
-                        "startLines": "641,948,949,950,961,962,965",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "32859,55715,55760,55805,56547,56590,56754",
-                        "endColumns": "39,44,44,44,42,42,39",
-                        "endOffsets": "32894,55755,55800,55845,56585,56628,56789"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ospan\\.gradle\\caches\\9.0-milestone-1\\transforms\\a3846ee8c612dce444ae56490edc4cd3\\transformed\\jetified-startup-runtime-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -251,6 +249,25 @@
                         "startOffsets": "131348",
                         "endColumns": "82",
                         "endOffsets": "131426"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ospan\\AndroidStudioProjects\\CatGalleryApp\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "6379",
+                        "startColumns": "4",
+                        "startOffsets": "446652",
+                        "endLines": "6384",
+                        "endColumns": "12",
+                        "endOffsets": "447004"
                     }
                 },
                 {
@@ -327,23 +344,6 @@
                         "endLines": "506,1110,1111,1112,1120,1121,1122,1816,12711",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "25672,66400,66448,66504,67190,67266,67338,120999,769965"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ospan\\Downloads\\CatGalleryApp\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "50",
-                        "endOffsets": "101"
-                    },
-                    "to": {
-                        "startLines": "1987",
-                        "startColumns": "4",
-                        "startOffsets": "131431",
-                        "endColumns": "50",
-                        "endOffsets": "131477"
                     }
                 },
                 {

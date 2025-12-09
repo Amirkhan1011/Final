@@ -1,6 +1,6 @@
 package com.example.catgallery.state
 
-import com.example.catgallery.models.CatCard
+import com.example.catgallery.data.models.CatCard
 
 sealed class UiState {
     object Loading : UiState()

@@ -3022,6 +3022,7 @@ int drawable ic_mtrl_chip_checked_black 0x7f070094
 int drawable ic_mtrl_chip_checked_circle 0x7f070095
 int drawable ic_mtrl_chip_close_circle 0x7f070096
 int drawable ic_search_black_24 0x7f070097
+int drawable images 0x7f0700e4
 int drawable indeterminate_static 0x7f070098
 int drawable m3_avd_hide_password 0x7f070099
 int drawable m3_avd_show_password 0x7f07009a
@@ -3098,6 +3099,7 @@ int drawable notify_panel_notification_icon_bg 0x7f0700e0
 int drawable test_level_drawable 0x7f0700e1
 int drawable tooltip_frame_dark 0x7f0700e2
 int drawable tooltip_frame_light 0x7f0700e3
+int drawable video 0x7f0700e5
 int id ALT 0x7f080000
 int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002
@@ -3192,6 +3194,7 @@ int id beginning 0x7f08005a
 int id bestChoice 0x7f08005b
 int id blocking 0x7f08005c
 int id bottom 0x7f08005d
+int id bottomNav 0x7f080201
 int id bounce 0x7f08005e
 int id bounceBoth 0x7f08005f
 int id bounceEnd 0x7f080060
@@ -3299,6 +3302,7 @@ int id fixed 0x7f0800c5
 int id flip 0x7f0800c6
 int id floating 0x7f0800c7
 int id forever 0x7f0800c8
+int id fragmentContainer 0x7f080202
 int id fragment_container_view_tag 0x7f0800c9
 int id frost 0x7f0800ca
 int id fullscreen_header 0x7f0800cb
@@ -3404,6 +3408,8 @@ int id mtrl_picker_text_input_range_start 0x7f08012e
 int id mtrl_picker_title_text 0x7f08012f
 int id mtrl_view_tag_bottom_padding 0x7f080130
 int id multiply 0x7f080131
+int id nav_cats 0x7f080203
+int id nav_videos 0x7f080204
 int id navigation_bar_item_active_indicator_view 0x7f080132
 int id navigation_bar_item_icon_container 0x7f080133
 int id navigation_bar_item_icon_view 0x7f080134
@@ -3590,6 +3596,8 @@ int id unlabeled 0x7f0801e8
 int id up 0x7f0801e9
 int id useLogo 0x7f0801ea
 int id vertical_only 0x7f0801eb
+int id videoPager 0x7f080206
+int id videoView 0x7f080205
 int id view_offset_helper 0x7f0801ec
 int id view_transition 0x7f0801ed
 int id view_tree_lifecycle_owner 0x7f0801ee
@@ -3738,9 +3746,12 @@ int layout design_navigation_menu 0x7f0b0029
 int layout design_navigation_menu_item 0x7f0b002a
 int layout design_text_input_end_icon 0x7f0b002b
 int layout design_text_input_start_icon 0x7f0b002c
+int layout fragment_cat_main 0x7f0b006d
+int layout fragment_cats 0x7f0b006f
 int layout ime_base_split_test_activity 0x7f0b002d
 int layout ime_secondary_split_test_activity 0x7f0b002e
 int layout item_cat 0x7f0b002f
+int layout item_video_page 0x7f0b0071
 int layout m3_alert_dialog 0x7f0b0030
 int layout m3_alert_dialog_actions 0x7f0b0031
 int layout m3_alert_dialog_title 0x7f0b0032
@@ -3802,6 +3813,7 @@ int layout select_dialog_item_material 0x7f0b0069
 int layout select_dialog_multichoice_material 0x7f0b006a
 int layout select_dialog_singlechoice_material 0x7f0b006b
 int layout support_simple_spinner_dropdown_item 0x7f0b006c
+int menu bottom_nav_menu 0x7f110000
 int plurals mtrl_badge_content_description 0x7f0d0000
 int string abc_action_bar_home_description 0x7f0e0000
 int string abc_action_bar_up_description 0x7f0e0001
